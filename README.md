@@ -1,1 +1,3 @@
-# kali-tools
+# pentest-tools
+
+tools needed on a new vm
