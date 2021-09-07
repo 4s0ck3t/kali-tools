@@ -73,10 +73,7 @@ apt install gobuster
 #install xclip for clipboard
 apt install xclip
 
-#install dirsearch
-cd /opt/ && git clone https://github.com/maurosoria/dirsearch.git
-
-#setup tmux
+#setup tmux########################
 cd /opt/ && git clone https://github.com/samoshkin/tmux-config.git && cd /opt/tmux-config/ && ./install.sh
 
 #install ffuf
