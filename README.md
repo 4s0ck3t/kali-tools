@@ -2,4 +2,4 @@
 
 tools needed on a new vm
 
-and changes made - to the bash script
+and changes madeeeeeeeeeee - to the bash script
